@@ -20,7 +20,9 @@ Note: Open Required Ports In AWS Security Groups. For now we will open All trafi
 
 ==========COMMON FOR MASTER & SLAVES START ====
 
+sudo hostnamectl set-hostname master
 1) Switch to root user
+
    
 sudo su -
 
